@@ -1,2 +1,7 @@
 hdfhfid 
 iopsd
+<<<<<<< HEAD
+=======
+new
+>>>>>>> d19414116d10873252707da366c0b14b40c430b9
+new2
